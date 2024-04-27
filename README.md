@@ -1,1 +1,1 @@
-# hypothesis-testing-case-study
+# one-sample-t-test
